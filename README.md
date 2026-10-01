@@ -1,3 +1,7 @@
+> [!Important]  
+> Frappe Drive is archived and is now part of [Suite](https://github.com/frappe/suite).
+>
+
 <div align="center">
   <a href="https://frappe.io/products/drive">
     <img src=".github/new_logo.svg" height="80" width="80" alt="Frappe Drive Logo">
@@ -11,10 +15,6 @@
 [Website](https://frappe.io/drive) <!-- | [Demo](https://www.figma.com/community/file/949266436474872912) --> | [Community](https://t.me/frappedrive) | [Documentation](https://docs.frappe.io/drive/quick-start) | [Forum](https://discuss.frappe.io/)
 
 </div>
-
-> [!Warning]  
-> Frappe Drive is in beta. It is strongly advised to take backups in production use.
->
 
 ## Frappe Drive
 
